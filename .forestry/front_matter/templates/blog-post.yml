@@ -21,4 +21,5 @@ fields:
   name: hero_image
   label: hero_image
 pages:
+- posts/test-3.md
 - posts/testujemy.md
